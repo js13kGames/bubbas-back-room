@@ -1,4 +1,7 @@
 ---
+genres:
+  - horror
+  - adventure
 post: https://web.archive.org/web/20191229231715/https://www.deadpix3l.com/bubbas-back-room-postmortem
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
